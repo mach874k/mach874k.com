@@ -40,11 +40,10 @@ unsafe = true
 logo = "images/mach-logo.png"
 logo_width = "110px"
 # OpenGraph / Twitter Card metadata
-title = "Airspace Hugo Template"
+title = "Mach874k"
 favicon = "images/favicon.ico"
-description = "This is meta description"
-author = "Themefisher"
-images = [ "images/logo.png" ] # First image here will be used as fallback if a page has no images of its own
+description = "Our mission is to deliver a game that we have been wanting to play since forever. A true Reality RPG, that makes you walk around the real world exploring for adventure, Epic Heroes, Quests, and awesome foes."
+images = [ "images/mach-logo.png" ] # First image here will be used as fallback if a page has no images of its own
 
 
 ################################# Sidebar widgets #############################
@@ -77,7 +76,7 @@ action = "#"
 
 ################################# Google map ##################################
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
