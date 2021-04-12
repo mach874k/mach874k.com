@@ -7,6 +7,7 @@ draft: false
 
 
 #### Tem q arranjar um jeito de botar o time e as foto aqui
+#### Por algum motivo o conteúdo de testimonial tá vindo do _index/funfacts
 
 ################################## About #####################################
 about:
