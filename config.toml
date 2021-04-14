@@ -43,6 +43,7 @@ logo_width = "110px"
 title = "Mach874k"
 favicon = "images/favicon.ico"
 description = "Our mission is to deliver a game that we have been wanting to play since forever. A true Reality RPG, that makes you walk around the real world exploring for adventure, Epic Heroes, Quests, and awesome foes."
+author = "Mach874k"
 images = [ "images/mach-logo.png" ] # First image here will be used as fallback if a page has no images of its own
 
 

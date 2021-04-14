@@ -96,5 +96,29 @@ funfacts:
     designation: "CEO-Themefisher"
     content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
+team:
+  team_slider:
+  - name: "Lucas Severo Alves"
+    image: "images/teams/Lucas.png"
+    content: "7 Years Experience with entrepreneurship, programming and system design and administration."
 
+  - name: "Iuri Severo"
+    image: "images/teams/Iuri.png"
+    content: "Software Engineering student with experience in gamification and backend development."
+
+  - name: "Paula Lins"
+    image: "images/teams/Paula.png"
+    content: "PhD in mathematics with experience in drawing and painting. Currently leading digital and concept art."
+
+  - name: "Pedro Kaled"
+    image: "images/teams/Pedro.png"
+    content: "Entrepreneur, rocket scientist and sci-fi geek with 10 years of experience. Currently leading world building and concept."
+
+  - name: "Luiz Oliveira"
+    image: "images/teams/Luiz.png"
+    content: "Software Engineer with 7 years of experience with Web, Mobile, datascience, ML and DevOps."
+
+  - name: "Leonardo Alves"
+    image: "images/teams/Leonardo.png"
+    content: "Development student with 10 Years of Experience being a Lawyer."
 ---

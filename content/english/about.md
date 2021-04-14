@@ -73,15 +73,19 @@ features:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
-  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Publishing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  # - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
+  #   name : "Publishing"
+  #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
   
 
 #################################### testimonial & mission vision #######################################
 testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
+  enable : false
+  # testimonial content comes from "_index.md" file
+
+team:
+  enable: true
+  # team content comes from "_index.md" file
 
 mission_vision:
   enable : true
