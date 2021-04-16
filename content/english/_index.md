@@ -26,7 +26,7 @@ portfolio:
   bg_image: "images/mobile2.png"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: "
-  So far we are working on our fisrt game called Reality RPG. In summary it is a Cyber Fantasy Augmented reality mobile Adventure in the Real World. The idea is for it to be an immersive GPS location based game. Think Pokemon Go, but with Epic heroes, quests, character building, items, guilds, parties and grid based strategy combat.
+  So far we are working on our first game called Reality RPG. In summary it is a Cyber Fantasy Augmented reality mobile Adventure in the Real World. The idea is for it to be an immersive GPS location based game. Think Pokemon Go, but with Epic heroes, quests, character building, items, guilds, parties and grid based strategy combat.
   "
   button:
     enable: true
@@ -99,26 +99,26 @@ funfacts:
 team:
   team_slider:
   - name: "Lucas Severo Alves"
-    image: "images/teams/Lucas.png"
+    image: "images/teams/LucasAlves.png"
     content: "7 Years Experience with entrepreneurship, programming and system design and administration."
 
   - name: "Iuri Severo"
-    image: "images/teams/Iuri.png"
+    image: "images/teams/IuriSevero.png"
     content: "Software Engineering student with experience in gamification and backend development."
 
   - name: "Paula Lins"
-    image: "images/teams/Paula.png"
+    image: "images/teams/PaulaLins.png"
     content: "PhD in mathematics with experience in drawing and painting. Currently leading digital and concept art."
 
   - name: "Pedro Kaled"
-    image: "images/teams/Pedro.png"
+    image: "images/teams/PedroKaled.png"
     content: "Entrepreneur, rocket scientist and sci-fi geek with 10 years of experience. Currently leading world building and concept."
 
   - name: "Luiz Oliveira"
-    image: "images/teams/Luiz.png"
+    image: "images/teams/LuizOliveira.png"
     content: "Software Engineer with 7 years of experience with Web, Mobile, datascience, ML and DevOps."
 
   - name: "Leonardo Alves"
-    image: "images/teams/Leonardo.png"
+    image: "images/teams/LeonardoAlves.png"
     content: "Development student with 10 Years of Experience being a Lawyer."
 ---

@@ -5,16 +5,14 @@ bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
 
-
-#### Tem q arranjar um jeito de botar o time e as foto aqui
-#### Por algum motivo o conteúdo de testimonial tá vindo do _index/funfacts
-
 ################################## About #####################################
 about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be great and <br> make awesome work."
-  content : "Kindness, professionalism and fun."
+  content : "Kindness, professionalism and fun. That's our goal in the development of this company.<br>
+            We've first started as friends who want to play a game that doesn't exist, but we want to grow. Grow in diversity and quality of experience of our games.<br>Scattered across South America and Europe, we are remote-first."
+
 
   button:
     enable : false
@@ -23,28 +21,28 @@ about:
 
   funfacts:
   # funfacts loop
-  - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Internal projects"
-    count : "15"
+  - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Cups of Coffee"
+    count : "3650"
     
   # funfacts loop
-  - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Lines Of Code"
-    count : "75000"
+  - icon : "ion-ios-moon" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Sleepless Nights"
+    count : "244"
     
   # funfacts loop
-  - icon : "ion-ios-wineglass-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Events attended"
-    count : "2"
+  - icon : "ion-code" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Amount of Ctrl+Z "
+    count : "NaN"
     
   # funfacts loop
-  - icon : "ion-ios-body-outline" #ionicon pack v2 : https://ionicons.com/v2/
-    name : "Awards Winner"
-    count : "0"
+  - icon : "ion-stats-bars" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Executed Pipelines"
+    count : "1160"
     
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are independent and we do Game Design and Development"
   feature_item:
   # feature item loop
@@ -73,9 +71,9 @@ features:
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
     
   # feature item loop
-  # - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
-  #   name : "Publishing"
-  #   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "ion-ios-star-outline" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Publishing"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
   
 
 #################################### testimonial & mission vision #######################################
@@ -91,38 +89,8 @@ mission_vision:
   enable : true
   tabs:
   # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-    
-  # tab item loop
   - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-    
-  # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-
+    content : 'Our mission is to deliver games that we have been wanting to play since forever.<br>Have you ever thought "Hmm, this could be a nice game..."? Well, we have too. But we don"t want to think "it could be nice", we want to think that "it will be great", and then say "It is awesome!".'
 
 ############################# call to action #################################
 cta:

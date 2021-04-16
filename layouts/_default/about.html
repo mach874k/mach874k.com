@@ -118,8 +118,13 @@
         <div class="tabCommon">
           <ul class="nav nav-tabs">
             {{ range $index, $elements := .tabs }}
-            <li {{ if eq $index 0}} class="active" {{ end }}><a href="#{{.name | urlize}}"
-                data-toggle="tab">{{.name}}</a></li>
+              {{ if not (eq (len $elements) 2) }}
+                <p>aqui {{len $elements}}</p>
+                <li {{ if eq $index 0}} class="active" {{ end }}><a href="#{{.name | urlize}}"
+                    data-toggle="tab">{{.name}}</a></li>
+              {{ else }}
+                <h2>{{.name}}</h2>
+              {{ end }}
             {{ end }}
           </ul>
           <div class="tab-content">
