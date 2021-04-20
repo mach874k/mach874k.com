@@ -24,11 +24,21 @@ about:
   - icon : "ion-coffee" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Cups of Coffee"
     count : "3650"
+
+  # funfacts loop
+  - icon : "ion-planet" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Worlds to Explore"
+    count : "2"
     
   # funfacts loop
   - icon : "ion-ios-moon" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Sleepless Nights"
     count : "244"
+
+  # funfacts loop
+  - icon : "ion-planet" #ionicon pack v2 : https://ionicons.com/v2/
+    name : "Songs Composed"
+    count : "3"
     
   # funfacts loop
   - icon : "ion-code" #ionicon pack v2 : https://ionicons.com/v2/
@@ -39,6 +49,7 @@ about:
   - icon : "ion-stats-bars" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Executed Pipelines"
     count : "1160"
+
     
 ################################ feature #####################################
 features:
