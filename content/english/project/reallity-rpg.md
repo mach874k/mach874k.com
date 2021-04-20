@@ -20,7 +20,7 @@ information:
 
 ## Reality RPG
 
-Reality RPG is our big pet project. This is a game that we started developing because it is a game that we already want to play. After having experienced other georeferenced games like Pokemon Go and Orna, we felt like these games could have been way better if they would better build apon what exploration that augmented reality brings to the table. That's exactly what we want to do.
+Reality RPG is our big pet project. This is a game that we started developing because it is a game that we already want to play. After having experienced other georeferenced games like Pokemon Go and Orna, we felt like these games could have been way better if they would better build apon what augmented reality brings to the table. That's exactly what we want to do.
 
 ![Example image](/images/game-idea.png)
 
