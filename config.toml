@@ -55,7 +55,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 ################################# Contact page ################################
 [params.contact]
 # Address block
-phone = "+49 178 6735660"
+phone = "... Better to email us :)"
 email = "lucas.alves@mach874k.com"
 location = """
 **Mach874k**  
