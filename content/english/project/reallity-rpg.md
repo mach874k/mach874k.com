@@ -24,7 +24,7 @@ Reality RPG is our big pet project. This is a game that we started developing be
 
 ![Example image](/images/game-idea.png)
 
-Our mains focus is exploration, engagement, and immersiveness. We want player to be able to hunt for rare Heroes, rare monsters and equipments. Deliver possibilities for grinding, creating custom player content and just have a RPG feal interconnected with the real world.
+Our main focus is exploration, engagement, and immersiveness. We want player to be able to hunt for rare Heroes, rare monsters and equipments. Deliver possibilities for grinding, creating custom player content and just have a RPG feal interconnected with the real world.
 
 
 We also want to have a different approach to combat, but this will be revealed closer to the release date.
