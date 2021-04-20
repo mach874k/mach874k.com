@@ -1,7 +1,7 @@
 ---
 title: "As a dev, you should know ops"
 date: 2019-06-04T11:07:10+06:00
-author: John Doe
+author: Lucas Severo Alves
 image : "images/blog/mini-as-dev.jpeg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Career"]
