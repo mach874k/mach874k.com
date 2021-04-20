@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "How To Wear Bright Shoes"
 date: 2018-09-24T11:07:10+06:00
 author: [ "Mark Dinn", "John Doe" ]
@@ -7,7 +7,7 @@ bg_image: "images/feature-bg.jpg"
 categories: ["Artificial Intelligence"]
 tags: ["Advice","Retro"]
 description: "this is meta description"
-draft: false
+draft: true
 type: "post"
 ---
 
@@ -49,4 +49,4 @@ ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas
 perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
 reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
 commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p>
+in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.</p> -->
