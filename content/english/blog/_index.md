@@ -1,6 +1,6 @@
 ---
-title: "Latest News"
-description: "this is meta description"
+title: "Blogs"
+description: ""
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---
