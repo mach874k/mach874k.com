@@ -36,7 +36,7 @@ about:
     count : "244"
 
   # funfacts loop
-  - icon : "ion-planet" #ionicon pack v2 : https://ionicons.com/v2/
+  - icon : "ion-music-note" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Songs Composed"
     count : "3"
     
