@@ -10,8 +10,8 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "We strive to be great and <br> make awesome work."
-  content : "Kindness, professionalism and fun. That's our goal in the development of this company.<br>
-            We've first started as friends who want to play a game that doesn't exist, but we want to grow. Grow in diversity and quality of experience of our games.<br>Scattered across South America and Europe, we are remote-first."
+  content : "Kindness, professionalism and fun. That's our goal developing our games.<br>
+            We've first started as friends who wanted to play a game that doesn't exist, but we want to grow. Grow in diversity and quality of experience of our games.<br>Scattered across South America and Europe, we are remote-first."
 
 
   button:
