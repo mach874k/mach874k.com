@@ -20,39 +20,36 @@ information:
 
 ## Reality RPG
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus
-reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate
-at provident soluta consequatur.
+Reality RPG is our big pet project. This is a game that we started developing because it is a game that we already want to play. After having experienced other georeferenced games like Pokemon Go and Orna, we felt like these games could have been way better if they would better build apon the exploration that augmented reality brings to the table. That's exactly what we want to do.
 
 ![Example image](/images/game-idea.png)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores quibusdam sed, neque recusandae, est
-odit. A facere tempore soluta laborum.
+Our mains focus is exploration, engagement, and immersiveness. We want player to be able to hunt for rare Heroes, rare monsters and equipments. Deliver possibilities for grinding, creating custom player content and just have a RPG feal interconnected with the real world.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt, rem eaque facilis. Sit, voluptas?
-Error soluta odio, harum tenetur, alias in iure ipsam blanditiis illo, ratione, magnam a minima incidunt!
-Suscipit facilis, ut maxime libero necessitatibus, rerum aut voluptates aliquam maiores iusto qui
-temporibus nesciunt, incidunt in quasi. Veniam aliquid ea aperiam, obcaecati voluptate ab, temporibus
-fugiat at, inventore molestiae quibusdam, modi numquam debitis libero aut eum. Architecto sit quia quidem
-odit, quasi eveniet reprehenderit rerum dolorem voluptate sed aspernatur numquam enim, adipisci iste optio
-ea libero laboriosam praesentium aperiam nobis vero tempore consequuntur sapiente eos at. Suscipit quis
+
+We also want to have a different approach to combat, but this will be revealed closer to the release date.
+
+The history of the game will be hidden inside its items, characters, runes and scrolls. No big cutscenes is something that we want to stick to. The content will have to be discovered by the players (and sometimes, created by them)! 
+
+The following images are concepts of some of our first heroes, and for the looks of them, you can gather that we included technology and magic together, and right now we are calling our setting a CyberFantasy setting, which is almos self explanatory! :)
+
+![](/images/critalia1.png)
+
+They live in Critalia, another dimension heavilly influenced by ours. Their heroes have their great powers activated by humans (we) interacting with with them via some strange devices (phones). Their world and ours is connected by this breach created by our game!
+
+
+Tune in into our announcements and be prepared to uncover what is the connection and influence of our Real world into the Heroes Critalia World.
 
 
 ![Example image](/images/bear2d.png)
 
-voluptatibus temporibus dolore consectetur ex excepturi adipisci sunt. Maxime aperiam eos illum minima
-aliquid voluptate autem qui at impedit recusandae earum possimus, alias, maiores sint, sed quia quis aut
-cupiditate voluptatem reiciendis. Facilis nobis assumenda totam officiis dicta autem dolorem quidem
+Above you can find some concept art for one of our first Heroes, Gharak Garathron, a Cyber Mage Polar bear, war veteran, and Great Hero of Critalia.
 
 ![Example image](/images/cat2d.png)
 
-similique, delectus rerum laborum veritatis, cum magnam dignissimos necessitatibus possimus error, eius
-omnis veniam culpa, porro officia adipisci exercitationem minus hic. Ipsum veritatis repudiandae nulla quo
-dicta voluptates tenetur mollitia perferendis sequi, magnam doloremque odit similique, sit, voluptas unde
-iste molestias. Accusantium, corporis quibusdam quod in animi earum alias autem ipsum. Eaque rem numquam
-delectus veniam commodi doloribus consequatur deleniti?
+Yen is a Tactical Ninja Assassin. She is super sneaky, with invisibility skills and deadly tools. If you are seeing her, and if you are not dead, be sure that it is her courtesy.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores neque vero quasi quisquam atque in,
-libero ab sunt eius! Nesciunt laboriosam alias corporis sit accusantium voluptate sapiente debitis quos
-mollitia saepe maxime ipsum facilis dolore voluptas inventore veniam deleniti, eligendi harum aperiam iusto
-culpa? Delectus dolorum facere quasi iure explicabo?
+<br>
+<br>
+<br>
+<p style="text-align: center;"><em>We are going to throw some other heroes and info here if it makes sense and if it's sharable!</em></p>
