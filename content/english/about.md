@@ -101,7 +101,7 @@ mission_vision:
   tabs:
   # tab item loop
   - name : "Mission"
-    content : 'Our mission is to deliver games that we have been wanting to play since forever.<br>Have you ever thought "Hmm, this could be a nice game..."? Well, we have too. But we don"t want to think "it could be nice", we want to think that "it will be great", and then say "It is awesome!".'
+    content : "Our mission is to deliver games that we have been wanting to play since forever.<br>Have you ever thought \"Hmm, this could be a nice game...\"? Well, we have too. But we don't want to think \"it could be nice\", we want to think that \"it will be great\", and then say \"It is awesome!\"."
 
 ############################# call to action #################################
 cta:
