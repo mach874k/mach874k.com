@@ -2,7 +2,7 @@
 ############################### Banner ##############################
 banner:
   enable: true
-  bg_image: "images/rrpg-bk.png"
+  bg_image: "images/index_background.png"
   bg_overlay: true
   title: "Mobile Game Development <br/> & Design"
   content: "Our passion is augmented reality and real life interactable games!"
@@ -43,7 +43,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/call-to-action-bg.jpg"
+  bg_image: "images/send_message3.png"
   title: "Feel free to drop us a message."
   content: ""
   button:
