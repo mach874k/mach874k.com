@@ -23,7 +23,7 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable: true
-  bg_image: "images/mobile2.png"
+  bg_image: "images/mobile3.png"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: "
   So far we are working on our first game called Reality RPG. In summary it is a Cyber Fantasy Augmented reality mobile Adventure in the Real World. The idea is for it to be an immersive GPS location based game. Think Pokemon Go, but with Epic heroes, quests, character building, items, guilds, parties and grid based strategy combat.
@@ -43,7 +43,7 @@ service:
 ############################ call to action ###########################
 cta:
   enable: true
-  bg_image: "images/send_message3.png"
+  bg_image: "images/send_message.png"
   title: "Feel free to drop us a message."
   content: ""
   button:

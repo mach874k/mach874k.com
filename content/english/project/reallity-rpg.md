@@ -19,11 +19,11 @@ information:
 ---
 ## Reality RPG
 
-Reality RPG is our big pet project. This is a game that we started developing because it is a game that we already want to play. After having experienced other georeferenced games like Pokemon Go and Orna, we felt like these games could have been way better if they would better build apon what augmented reality brings to the table. That's exactly what we want to do.
+Reality RPG is our big pet project. This is a game that we started developing because we already want to play it. After having experienced other georeferenced games like Pokemon Go and Orna, we felt like these games could have been way better if they were built focused upon what augmented reality brings to the table. That's exactly what we want to do.
 
-<img src="/images/game-idea.png" alt="Game Idea" width=75% class="project_img"/>
+<img src="/images/game-idea-classified.png" alt="Game Idea" width=75% class="project_img"/>
 
-Our main focus is exploration, engagement, and immersiveness. We want the player to be able to hunt for rare Heroes, rare monsters and equipments. Delivering possibilities for grinding, creating custom player content and just having a RPG feel interconnected with the real world.
+Our main focus is exploration, engagement, and immersiveness. We want the player to be able to hunt for rare Heroes, rare monsters and equipments. Delivering possibilities for grinding, creating custom player content, and just having a RPG that feels interconnected with the real world.
 
 We also want to have a different approach to combat, but this will be revealed closer to the release date.
 
@@ -59,10 +59,10 @@ The following images are concepts of some of our first heroes, and for the looks
   </table>
 </div>
 
-They live in Critalia, another dimension heavilly influenced by ours. Their heroes have their great powers activated by humans (we) interacting with with them via some strange devices (smartphones). Their world and ours are connected by this breach created by our game!
+They live in Critalia, another dimension heavilly influenced by ours. Their heroes have their great powers activated when humans (we) interact with them through some strange devices (smartphones). Their world and ours are connected by this breach created by our game!
 
 
-Tune in into our announcements and be prepared to uncover what is this connection and influence that our Real world has into the Heroes Critalia World.
+Tune in to our announcements and be prepared to uncover what is this connection and influence that our world has into the Heroes of Critalia.
 
 <img src="/images/bear2d.png" alt="Gharak Garathron draft" width=75% class="project_img"/>
 
@@ -70,7 +70,7 @@ Above you can find a concept art for one of our first Heroes, Gharak Garathron, 
 
 <img src="/images/cat2d.png" alt="Yen draft" width=75% class="project_img"/>
 
-Yen is a Tactical Ninja Assassin. She is super sneaky, with invisibility skills and deadly tools. If you are seeing her, and if you are not dead, be sure that it is her courtesy.
+Yen is a Tactical Ninja Assassin. She is super sneaky, with invisibility skills and deadly tools. If you are seeing her, and you are not dead, be sure that it is her courtesy.
 
 <br>
 <br>
