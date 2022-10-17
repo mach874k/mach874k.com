@@ -21,7 +21,8 @@ information:
 
 Reality RPG is our big pet project. This is a game that we started developing because we already want to play it. After having experienced other georeferenced games like Pokemon Go and Orna, we felt like these games could have been way better if they were built focused upon what augmented reality brings to the table. That's exactly what we want to do.
 
-<img src="/images/game-idea-classified.png" alt="Game Idea" width=75% class="project_img"/>
+<!-- <img src="/images/game-idea-classified.png" alt="Game Idea" width=75% class="project_img"/> -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rP4THWXoNfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our main focus is exploration, engagement, and immersiveness. We want the player to be able to hunt for rare Heroes, rare monsters and equipments. Delivering possibilities for grinding, creating custom player content, and just having a RPG that feels interconnected with the real world.
 
