@@ -9,7 +9,7 @@ draft: false
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "eating Fun and Engaging Games <br> with Passion and Professionalism."
+  title : "Creating Fun and Engaging Games <br> with Passion and Professionalism."
   content : "Kindness, professionalism and fun. That's our goal developing our games.<br>
             We've first started as friends who wanted to play a game that doesn't exist, but we want to grow. Grow in diversity and quality of experience of our games.<br>Scattered across South America and Europe, we are remote-first."
 
