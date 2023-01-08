@@ -26,7 +26,7 @@ portfolio:
   bg_image: "images/mobile3.png"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: "
-  we are currently developing two exciting games: Reality RPG and Critalia2D. Reality RPG is a mobile game set in a cyber fantasy world with elements of real-world interaction. It is an immersive, GPS-based game that combines the best elements of Pokemon Go with character building, epic heroes, quests, guilds, parties, and strategy-based combat. Critalia2D is a 2D plataformer that serves as the foundation for Reality RPG, setting the stage for an unforgettable gaming experience. Both games are set in a unique and immersive cyber fantasy world, and we can't wait for players to join us on this journey.
+  We are currently developing two exciting games: Reality RPG and Critalia2D. Reality RPG is a mobile game set in a cyber fantasy world with elements of real-world interaction. It is an immersive, GPS-based game that combines the best elements of Pokemon Go with character building, epic heroes, quests, guilds, parties, and strategy-based combat. Critalia2D is a 2D plataformer that serves as the foundation for Reality RPG, setting the stage for an unforgettable gaming experience. Both games are set in a unique and immersive cyber fantasy world, and we can't wait for players to join us on this journey.
   "
   button:
     enable: true
