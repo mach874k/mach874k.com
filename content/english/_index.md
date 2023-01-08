@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/index_background.png"
   bg_overlay: true
-  title: "Mobile Game Development <br/> & Design"
+  title: "Game Development <br/> & Design"
   content: "Our passion is augmented reality and real life interactable games!"
   button:
     enable: true
