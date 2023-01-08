@@ -39,7 +39,7 @@ about:
   # funfacts loop
   - icon : "ion-music-note" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Songs Composed"
-    count : "3"
+    count : "7"
     
   # funfacts loop
   - icon : "ion-code" #ionicon pack v2 : https://ionicons.com/v2/
@@ -49,7 +49,7 @@ about:
   # funfacts loop
   - icon : "ion-stats-bars" #ionicon pack v2 : https://ionicons.com/v2/
     name : "Executed Pipelines"
-    count : "1160"
+    count : "10348"
 
     
 ################################ feature #####################################
