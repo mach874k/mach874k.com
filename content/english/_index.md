@@ -16,7 +16,7 @@ about:
   enable: true
   title: "About Us"
   description: "Scattered across South America and Europe, we are remote-first, we value diversity, and quality of experience of our games."
-  content: "Our mission is to deliver a game that we have been wanting to play since forever. A true Reality RPG, that makes you walk around the real world exploring for adventure, Epic Heroes, Quests, and awesome foes. We want to do that by finding like minded professionals, keeping diversity as a goal, and work-life balance as a must. We are remote first, and looking for talent. Geodiversity is important to us."
+  content: "We are on a mission to bring a new level of immersion to the gaming world. Our dream is to create games that takes players on epic adventures through interaction with the real world, facing off against fearsome foes and completing quests alongside heroic characters. To make this dream a reality, we are dedicated to building a team of like-minded professionals who share our passion for innovation and quality. We value diversity and prioritize work-life balance, and as a remote-first company, we welcome talented individuals from all over the globe to join us on this exciting journey."
   image: "images/digital-drawing.jpeg"
 
 
@@ -26,7 +26,7 @@ portfolio:
   bg_image: "images/mobile3.png"
   title: "WE BELIEVE IN GREAT IDEAS"
   content: "
-  So far we are working on our first game called Reality RPG. In summary it is a Cyber Fantasy Augmented reality mobile Adventure in the Real World. The idea is for it to be an immersive GPS location based game. Think Pokemon Go, but with Epic heroes, quests, character building, items, guilds, parties and grid based strategy combat.
+  we are currently developing two exciting games: Reality RPG and Critalia2D. Reality RPG is a mobile game set in a cyber fantasy world with elements of real-world interaction. It is an immersive, GPS-based game that combines the best elements of Pokemon Go with character building, epic heroes, quests, guilds, parties, and strategy-based combat. Critalia2D is a 2D plataformer that serves as the foundation for Reality RPG, setting the stage for an unforgettable gaming experience. Both games are set in a unique and immersive cyber fantasy world, and we can't wait for players to join us on this journey.
   "
   button:
     enable: true
