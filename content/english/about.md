@@ -10,8 +10,9 @@ about:
   enable : true
   image : "images/company/about.jpg"
   title : "Creating Fun and Engaging Games <br> with Passion and Professionalism."
-  content : "Kindness, professionalism and fun. That's our goal developing our games.<br>
-            We've first started as friends who wanted to play a game that doesn't exist, but we want to grow. Grow in diversity and quality of experience of our games.<br>Scattered across South America and Europe, we are remote-first."
+  content : "At mach874k, we are a team of game developers united by our passion for creating immersive and enjoyable experiences.
+  <br>
+            From the very beginning, we were driven by the idea of building a game that didn't yet exist – and now, we strive to continually push the boundaries of what's possible in the indie gaming industry. Our team is spread across South America and Europe, but we are a remote-first company that values kindness, professionalism, and fun in all of our work. As we grow and evolve, we are committed to expanding the diversity of our team and quality of our games, and to delivering the best possible experience to our players."
 
 
   button:
