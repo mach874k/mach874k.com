@@ -103,7 +103,7 @@ mission_vision:
   tabs:
   # tab item loop
   - name : "Mission"
-    content : "Our mission is to deliver games that we have been wanting to play since forever.<br>Have you ever thought \"Hmm, this could be a nice game...\"? Well, we have too. But we don't want to think \"it could be nice\", we want to think that \"it will be great\", and then say \"It is awesome!\"."
+    content : "At mach874k, our goal is to create games that we've always dreamed of playing. We believe that with hard work and dedication, we can turn our \"could be nice\" ideas into \"will be great\" realities. Our mission is to develop games that not only meet, but exceed our own expectations and those of our players"
 
 ############################# call to action #################################
 cta:
