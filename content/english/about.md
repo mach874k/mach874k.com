@@ -12,6 +12,7 @@ about:
   title : "Creating Fun and Engaging Games <br> with Passion and Professionalism."
   content : "At mach874k, we are a team of game developers united by our passion for creating immersive and enjoyable experiences.
   <br>
+  <br>
             From the very beginning, we were driven by the idea of building a game that didn't yet exist – and now, we strive to continually push the boundaries of what's possible in the indie gaming industry. Our team is spread across South America and Europe, but we are a remote-first company that values kindness, professionalism, and fun in all of our work. As we grow and evolve, we are committed to expanding the diversity of our team and quality of our games, and to delivering the best possible experience to our players."
 
 
