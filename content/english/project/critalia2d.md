@@ -21,10 +21,6 @@ information:
 
 Under Development. A metroidvania in the same universe as Reality RPG, with multiple endings, hidden mysterious narratives, and fun procedural boss summonings.
 
-<br>
-<br>
-<br>
-<p style="text-align: center;"><em>We are going to throw some other heroes and info here if it makes sense and if it's sharable!</em></p>
 
 <style>
 .project_img {
