@@ -2,8 +2,8 @@
 title: "Critalia2D"
 description: "Cyber Fantasy metroidvania Adventure with scriblenaut style boss summoning."
 draft: false
-image : "images/GarakRender.png"
-bg_image: "images/GarakRenderPixelArt.png"
+image : "images/GarakRenderPixelArt.png"
+bg_image: "images/GarakRender.png"
 category: "PC/Console"
 information:
   - label : "Platform"
