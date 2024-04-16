@@ -15,7 +15,7 @@ information:
   - label : "Multiplayer style"
     info : "MMO/Party/Guild"
   - label : "Release Date"
-    info : "TBD"
+    info : "TBD-Paused"
 ---
 ## Reality RPG
 
